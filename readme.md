@@ -1,6 +1,6 @@
 # MCD-MLD
 
-> Manipulations des bases données à travers des exercices.  
+> Manipulations des bases données à travers des exercices 
 
 ## Concevoir une base de données : Modèle Conceptuel de Données et Modèle Logique de Données
 
